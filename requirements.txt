@@ -1,0 +1,4 @@
+Flask==1.1.2
+pandas==0.25.3
+numpy==1.17
+sklearn==0.0
