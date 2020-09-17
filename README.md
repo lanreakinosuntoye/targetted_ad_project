@@ -1,0 +1,1 @@
+A data science project of the Information and Data Analytics Foundation (IDAF) for the Terragon Group predictive model to forcast the likelihood that a customer will click an ads sent to increase the Click Through Rate (CTR) of campaigns. This was achieved by analysis and training a machine learning algorithm on customers historical data to for a personalised ad targeting.
